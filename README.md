@@ -1,7 +1,7 @@
 # Diversity-Graphormer
 
 This repository contains data (all freely available) and code to reproduce the experiments from the paper "Graphormer Meets Diversity: Insights from Hate Speech Detection on 4chan"
-![Graphormer Figure]()
+![Graphormer Figure](https://github.com/FutureLab-DCC/Diversity-Graphormer/blob/62408a30418af4ec4b07085ac14671f9bdee4fcc/Files/paperfig2.png)
 
 The Files folder contains a zip file with all the datasets used in training and evaluating the proposed and baseline models:
 - The [Slur corpus](https://github.com/networkdynamics/slur-corpus) file ("kurrek.2020.slur-corpus.csv")
